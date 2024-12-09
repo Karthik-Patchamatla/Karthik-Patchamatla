@@ -14,7 +14,7 @@
     <ul>
       <li>🔭 Currently working on <strong>Flutter x Firebase</strong></li>
       <li>👨‍💻 Check out all my projects: 
-        <a href="https://portfolio-pi-one-12.vercel.app/" target="_blank" style="color: #FF5722; text-decoration: none;"><strong>My Portfolio</strong></a>
+        <a href="https://myresponsiveportfolio.vercel.app/" target="_blank" style="color: #FF5722; text-decoration: none;"><strong>My Portfolio</strong></a>
       </li>
       <li>💬 Ask me about <strong>Flutter, React, Node.js, Express, MongoDB</strong></li>
       <li>📫 How to reach me: 
