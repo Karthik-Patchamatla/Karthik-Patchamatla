@@ -2,7 +2,7 @@
 <h3 align="center" style="margin-top: 20px; font-size: 1.5em; color: #4CAF50;">A Passionate Full Stack & Flutter Developer</h3>
 
 <p align="center" style="margin: 20px 0;">
-  <a href="https://portfolio-pi-one-12.vercel.app/" target="_blank">
+  <a href="https://myresponsiveportfolio.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Karthik-Patchamatla/Nike-Application/refs/heads/main/shoes/githubprofile.webp" alt="MasterHead" style="border-radius: 15px; width: 80%; max-width: 600px;" />
   </a>
 </p>
