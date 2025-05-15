@@ -18,7 +18,7 @@
       </li>
       <li>💬 Ask me about <strong>Flutter, React, Node.js, Express, MongoDB</strong></li>
       <li>📫 How to reach me: 
-        <a href="mailto:pkarthikvarma830@gmail.com" style="color: #2196F3; text-decoration: none;"><strong>pkarthikvarma830@gmail.com</strong></a>
+        <a href="mailto:pkarthikvarma830@gmail.com" style="color: #2196F3; text-decoration: none;"><strong>karthik.patchamatla@gmail.com</strong></a>
       </li>
     </ul>
   </div>
